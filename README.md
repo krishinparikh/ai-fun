@@ -4,7 +4,8 @@ Playing around with different AI/agent techniques
 
 - RAG
 - Agentic RAG
-- Tool calling
+- GraphRAG
 - StructRAG
+- Tool calling
 - LLM-based knowledge graphs
 - Fine tuning

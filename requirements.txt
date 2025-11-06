@@ -1,4 +1,9 @@
 langchain
 langchain-text-splitters
 langchain-community
+langchain_openai
+langchain-chroma
+chromadb
+openai
+python-dotenv
 pypdf
